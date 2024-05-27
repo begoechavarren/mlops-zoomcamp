@@ -160,3 +160,4 @@ cython_debug/
 # Data files
 *.csv
 *.parquet
+*.pkl
