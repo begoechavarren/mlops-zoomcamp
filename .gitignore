@@ -161,3 +161,8 @@ cython_debug/
 *.csv
 *.parquet
 *.pkl
+
+# MLflow
+*/mlruns/*
+*/artifacts/*
+*.db
