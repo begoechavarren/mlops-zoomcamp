@@ -161,6 +161,7 @@ cython_debug/
 *.csv
 *.parquet
 *.pkl
+*.bin
 
 # MLflow
 */mlruns/*
